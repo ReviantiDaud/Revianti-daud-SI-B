@@ -1,2 +1,2 @@
 # Revianti-daud-SI-B
-Tugas kedua Sistem Operasi 
+Tugas kedua mata kuliah Sistem Operasi
